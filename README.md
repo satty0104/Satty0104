@@ -41,7 +41,7 @@
 ### 📈 Stats & Activity
 
 <p align="center">
-    ![Snake animation](https://github.com/Saksham-3114/Saksham-3114/blob/output/github-contribution-grid-snake.svg)
+    
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-3114&layout=compact&theme=radical" height="165"/>
 </p>
@@ -52,6 +52,7 @@
 
 ---
 
+![Snake animation](https://github.com/Saksham-3114/Saksham-3114/blob/output/github-contribution-grid-snake.svg)
 
 
 ### ⚡ Fun Fact
