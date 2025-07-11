@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Satyam Bansal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;800%2B+DSA+Problems+Solved;AI%2FML+Enthusiast;Graphic+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;800%2B+DSA+Problems+Solved;AI%2FML+Enthusiast;Agentic%2AI;r" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ### 🔧 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,py,mongodb,html,css,docker,git,github,linux,aws,gcp," />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,py,mongodb,html,css,docker,git,github,linux,aws,gcp,tensorflow,pytorch,opencv,flask" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 <p align="center">
     
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-3114&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satty0104&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
