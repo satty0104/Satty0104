@@ -27,15 +27,6 @@
 
 ---
 
-### 🚀 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [SakShell](https://github.com/Saksham-3114/SakShell) | Lightweight Unix-like shell in C++ with command parsing and built-in functions | C++, Linux, Git |
-| [SmartPing](https://smartping.vercel.app/) | 🏆 Google Solution Challenge Project. AI-powered smart city dashboard with chatbot | React, Node.js, MongoDB, Gemini API |
-| [BargainBay](https://github.com/Saksham-3114/E-Commerce-Web-Application) | E-commerce web app with buyer/seller auth, cart, order flow | MERN Stack, Passport.js, MongoDB |
-
----
 
 ### 📈 Stats & Activity
 
@@ -58,9 +49,9 @@
 ---
 
 
-### ⚡ Fun Fact
+### ⚡ Areas of Interest 
 
-> "I debug with snacks. If the bug persists, I upgrade to caffeine."
+> Text Generation| Speech Emotion Recognition| AI-Agents | Playing with Images
 
 ---
 
