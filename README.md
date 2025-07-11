@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Satyam Bansal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;800%2B+DSA+Problems+Solved;AI%2FML+Enthusiast;Agentic%2AI;r" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;800%2B+DSA+Problems+Solved;AI%2FML+Enthusiast;Agentic%2FAI;r" alt="Typing SVG" />
 </p>
 
 <p align="center">
